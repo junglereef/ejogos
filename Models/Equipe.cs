@@ -37,10 +37,6 @@ namespace EJogos.Models
 
         }
 
-
-
-
-
         public void Criar(Equipe novaequipe)
         {
             string valor = Preparar(novaequipe);
